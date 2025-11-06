@@ -10,7 +10,7 @@
     "strict": true,
     "skipLibCheck": true,
     "outDir": "./dist",
-    "types": ["node"]
+    "types": ["node", "express", "express-session"]
   },
   "include": ["src/**/*"]
 }
